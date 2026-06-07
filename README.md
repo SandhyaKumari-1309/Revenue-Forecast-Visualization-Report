@@ -1,1 +1,1 @@
-# Revenue-Forecast-Visualization-Report
+Developed a Tableau Revenue Forecast Dashboard to analyze sales performance and forecast trends. Cleaned and preprocessed Kaggle data using Python, then created interactive visualizations including KPI cards, charts, heat maps, filters, and forecast analysis. The dashboard provides insights into revenue growth, forecast accuracy, regional performance, and pipeline stages, supporting data-driven business decisions.
